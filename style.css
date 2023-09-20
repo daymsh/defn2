@@ -1,0 +1,10 @@
+#elemento {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+.boton:hover {
+  background-color: #ff5722;
+  color: #fff;
+}
